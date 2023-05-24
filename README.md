@@ -21,3 +21,5 @@ els can approximately classify whether samples might have the disease or not. Th
 findings imply that using Machine Learning methods to analyze MS based PD samples
 is a straightforward, safe, rapid, and cost-effective way to detect Parkinson’s disease.
 
+# Machine Learning Model Implementation for One Feature:
+![1_featured(Intensity)_AccuracyTable (1)](https://github.com/Sadiatumpa60/MachineLearning_Implementation_Drosophila-model-of-Parkinson-s-disease/assets/131945108/73301d3b-5356-4aa3-b2e9-9d2f44b5d31c)
