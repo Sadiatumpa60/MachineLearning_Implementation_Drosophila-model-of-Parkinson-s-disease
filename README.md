@@ -24,4 +24,4 @@ is a straightforward, safe, rapid, and cost-effective way to detect Parkinson’
 # Machine Learning Model Implementation for One Feature:
 ![1_featured(Intensity)_AccuracyTable (1)](https://github.com/Sadiatumpa60/MachineLearning_Implementation_Drosophila-model-of-Parkinson-s-disease/assets/131945108/73301d3b-5356-4aa3-b2e9-9d2f44b5d31c)
 # Machine Learning Model Implementation for Two Features:
-![2_featured(P_Count Intensity)_AccuracyTable (2)](https://github.com/Sadiatumpa60/MachineLearning_Implementation_Drosophila-model-of-Parkinson-s-disease/assets/131945108/0798f701-a363-47d7-be12-17bafbad9aa8)
+![2_featured(P_Count Intensity)_AccuracyTable (1) (1)](https://github.com/Sadiatumpa60/MachineLearning_Implementation_Drosophila-model-of-Parkinson-s-disease/assets/131945108/cf24e987-7dd2-4a45-b2b6-1e34b19ceb95)
